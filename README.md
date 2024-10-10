@@ -33,17 +33,13 @@ Wie mit allen KI-Modellen kann man keine 100%ige Garantie geben ob der Text korr
 
 ***
 
-## Benötigte Python-Bibliotheken
+## Benötigte Python-Umgebung und Bibliotheken installieren
 ```sh
-pip install gradio
-pip install transformers
-pip install torch
-```
-oder
-```sh
-pip install --upgrade gradio==4.38.1
-pip install --upgrade transformers==4.45.1
-pip install --upgrade torch==2.4.1
+python3.11 -m venv translate-chinese
+source translate-chinese/bin/activate
+cd translate-chinese
+pip install -r requirements.txt
+python main.py
 ```
 
 ## Aktualisieren per Terminal
