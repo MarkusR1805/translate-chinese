@@ -42,6 +42,7 @@ git clone https://github.com/MarkusR1805/translate-chinese.git
 ```sh
 python3.11 -m venv translate-chinese
 source translate-chinese/bin/activate
+pip install --upgrade pip
 cd translate-chinese
 pip install -r requirements.txt
 python main.py
