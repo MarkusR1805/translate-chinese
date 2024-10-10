@@ -33,6 +33,11 @@ Wie mit allen KI-Modellen kann man keine 100%ige Garantie geben ob der Text korr
 
 ***
 
+## Programm klonen
+```sh
+git clone https://github.com/MarkusR1805/translate-chinese.git
+```
+
 ## Benötigte Python-Umgebung und Bibliotheken installieren
 ```sh
 python3.11 -m venv translate-chinese
