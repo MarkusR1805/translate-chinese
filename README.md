@@ -22,7 +22,7 @@ Der Vorteil ist das man immer die aktuellsten Modelle lädt.
 - Wenn man die Modelle nicht lokal verwendet benötigt man kaum Speicherplatz, ideal für gelegentliche Anwendung
 - Durch lokale Installation der Modelle unabhängig vom Anbieter der Modelle (Hugging Face), ideal wenn man sehr oft dieses Programm anwendet (Speicherplatz ca. 2GB)
 - Für PC/MAC/LINUX ab 8GB Arbeitsspeicher
-# Getestet auf MacBook Pro M2
+# <center>Getestet auf MacBook Pro M2</center>
 
 ## Python muss installiert sein
 
